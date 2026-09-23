@@ -1,1 +1,2 @@
-print("Application is running successfully!")
+# app.py
+print("Hello, World!")
